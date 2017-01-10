@@ -1,19 +1,22 @@
     header {
       text-align: center;
-      background: url("images/banner.jpg");
+      background: url("http://superduperkyle.com/wp-content/uploads/2015/08/smyle-1024x1024.jpg");
       background-size: cover;
-      color: white;
+      height: 1150px
+    
     }
     .nav {
-      color: white;
+      color: white
+      ;
     }
     h1 {
-      font-size: 70px;
+      font-size: 120px;
+      height: 800px
     }
     img {
-      margin: 40px 0px 0px 0px;
-      border: 7px solid white;
-      border-radius: 20px;
+      margin: 0px 0px 0px 0px;
+      border: 0px solid white;
+      border-radius: 0px;
     }
     ul {
       padding: 10px;
@@ -38,3 +41,6 @@
         display: block;
       }
     }
+#profile{
+  height: 550px;
+}
